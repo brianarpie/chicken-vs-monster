@@ -1,0 +1,10 @@
+{
+  "name": "phaser-grid-hero-villain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "brianarpie <brian.arpie@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}
